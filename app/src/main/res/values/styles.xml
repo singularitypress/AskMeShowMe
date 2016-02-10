@@ -1,0 +1,7 @@
+<resources>
+
+    <style name="AppTheme" parent="android:Theme.Dialog" />
+    <style name="Dialog" parent="android:Theme.Translucent" />
+
+</resources>
+
